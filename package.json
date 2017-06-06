@@ -1,0 +1,15 @@
+{
+  "name": "product_selection_riot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Benson",
+  "license": "ISC",
+  "dependencies": {
+    "riot": "^3.5.1",
+    "riot-router": "^0.9.7"
+  }
+}
